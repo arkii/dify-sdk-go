@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/zhouyangtingwen/dify-sdk-go"
+	"github.com/arkii/dify-sdk-go"
 )
 
 var (
